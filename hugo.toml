@@ -1,0 +1,4 @@
+baseURL = 'https://kangoard.github.io/website/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
